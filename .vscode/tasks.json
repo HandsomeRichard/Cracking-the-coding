@@ -8,8 +8,10 @@
             "type": "shell",
             "command": "g++",
             "args": [
-                "-g", "${file}"
-            ]
+                "-g",
+                "${file}"
+            ],
+            "problemMatcher": []
         }
     ]
 }
