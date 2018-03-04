@@ -4,6 +4,17 @@
         "iostream": "cpp",
         "iosfwd": "cpp",
         "string": "cpp",
-        "initializer_list": "cpp"
-    }
+        "initializer_list": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "hashtable.h": "c",
+        "cstdio": "c",
+        "stdio.h": "c",
+        "streambuf": "c",
+        "search.h": "c",
+        "ostream": "c"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "C_Cpp.errorSquiggles": "Disabled"
 }
