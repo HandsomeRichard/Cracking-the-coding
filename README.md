@@ -2,15 +2,16 @@
 
 Richard @ 2018-03-14
 [call bsearch function example]
-bsearch_test.c
-bsearch_intArray.c
-bsearch_charArray.c
+
+- bsearch_test.c
+- bsearch_intArray.c
+- bsearch_charArray.c
 
 [Implementation binary (L+R Bound)]
-Linear_binary_search.cpp
+- Linear_binary_search.cpp
 
 [HashTable File]
-Implementation of HashTable from online video.
+- Implementation of HashTable from online video.
 
 ArrayNote.txt:Usage of Array mistakes
 
